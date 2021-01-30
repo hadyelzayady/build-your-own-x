@@ -1,3 +1,4 @@
 */target
 shell-in-rust/Cargo.lock
 shell-in-rust/target/.rustc_info.json
+webserver-rust/
